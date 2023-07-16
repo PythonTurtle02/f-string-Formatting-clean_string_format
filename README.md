@@ -1,3 +1,5 @@
+https://youtu.be/QEraOr-cS8k
+
 # f-string-Formatting-clean_string_format
 
 This code demonstrates the use of the print function and the format method to display a list of names along with corresponding numbers. Here's an explanation of the code and the techniques used:
